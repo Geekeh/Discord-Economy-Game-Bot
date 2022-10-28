@@ -1,5 +1,7 @@
 ## What it is
 ##### A discord bot thats fun to use and gets chat active.
+![image](https://user-images.githubusercontent.com/98252854/198720989-f3833d12-a674-4b89-8ef4-ec90dd8b539f.png)
+
 # 📝-Setup-📝
 - Watch the [video](https://www.youtube.com/watch?v=YsqWb35eobg&t=6s) to learn how to setup mong.
 - Make a bot on [discord developer portal](https://discord.com/developers/applications).
