@@ -12,8 +12,8 @@
 - Cups
 - Jackpot
 ### More info
-##### All info is saved to a online database the curent bot uses mongo
-##### Send ap ull request if u want to help update or think you can make code better than current state.
+###### All info is saved to a online database the curent bot uses mongo
+###### Send a pull request if u want to help update or think you can make code better than current state.
 #
 #
-##### all code is free to use and open source and available to repurpose and sell
+###### all code is free to use and open source and available to repurpose and sell
