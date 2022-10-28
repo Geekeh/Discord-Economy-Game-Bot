@@ -1,6 +1,6 @@
 ## What it is
 ##### A discord bot thats fun to use and gets chat active.
-## Features
+## 📜-Features-📜
 - Mines command (5x5 grid of bombs amount of bombs up to user)
 - Tip command to share money with other users
 - Login command to make it more interactive
