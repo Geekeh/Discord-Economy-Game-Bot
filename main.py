@@ -134,12 +134,12 @@ async def mines(interaction: discord.Interaction, bomb_amount : int, bet_amount 
         await interaction.response.send_message(embed=em)
         return 0
     
-    #math stuff to find the multiplier of mines and click amount thx xolo
+    #math stuff to find the multiplier of mines and click amount stake multi cus they same
     def nCr(n,r):
         f = math.factorial
         return f(n) // f(r) // f(n-r)
 
-    #also math stuff to find multi thx xolo
+    #also math stuff to find multi stake multi cus they same
     def multiplier_math(bombs, clicks):
         return 0.94 * nCr(25, clicks) / nCr(25 - bombs, clicks)
 
